@@ -50,6 +50,6 @@ def video_to_images(input_folder, output_folder, frame_interval=10):
         print(f"Extraction completed. Total frames saved: {saved_count}")
 
 # Usage
-video_path = "./raw_videos/no_oil"  # Replace with your video file path
-output_folder = "path_to_output_folder"  # Replace with your output folder path
+video_path = "./raw_videos/oil"  # Replace with your video file path
+output_folder = "./pics/oil_pics"  # Replace with your output folder path
 video_to_images(video_path, output_folder, frame_interval=30)  # Save one frame every 30 frames
