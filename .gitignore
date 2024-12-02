@@ -1,0 +1,3 @@
+yolo_proof/runs/*
+yolo_proof/data/*.cache
+yolo_proof/yolov8n-cls.pt
