@@ -9,3 +9,7 @@ oil_detection_training/yolov8n-cls.pt
 oil_detection_training/data/test/*
 oil_detection_training/data/train/*
 oil_detection_training/data/val/*
+
+.DS_Store
+oil_detection_training/.DS_Store
+pics/.DS_Store
