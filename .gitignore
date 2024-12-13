@@ -2,3 +2,10 @@ yolo_proof/runs/*
 yolo_proof/data/*.cache
 yolo_proof/data/*/*/*
 yolo_proof/yolov8n-cls.pt
+
+oil_detection_training/data/*.cache
+oil_detection_training/runs/*
+oil_detection_training/yolov8n-cls.pt
+oil_detection_training/data/test/*
+oil_detection_training/data/train/*
+oil_detection_training/data/val/*
