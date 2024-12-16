@@ -1,7 +1,5 @@
 # OilDetector
 
-# OilDetector
-
 This repo stores the code needed to train a model to detect oil on top of running water.  It also has example ground truth data.
 
 ## Sections
